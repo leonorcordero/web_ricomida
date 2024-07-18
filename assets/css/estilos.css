@@ -1,0 +1,94 @@
+.img-principal{
+    width: 100%;
+    
+}
+
+h1{
+    font-size: 50px;
+    font-weight: 600;
+    text-align: left;
+    color: #373A3C;
+    
+   
+}
+
+hr{
+    border-top: 1px solid black;
+    opacity: 1;
+}
+
+.p1{
+    color: #373A3C;
+}
+
+body{
+    font-family: "Cabin", sans-serif;
+}
+
+.button-custom{
+    border-radius: 5px;
+    font-size: 20px;
+    
+
+}
+
+.boton1{
+    border-color: #DDDDDD;
+}
+
+
+.carousel .carousel-indicators button { 
+    width: 0.7rem;
+    height: 0.7rem;
+    border-radius: 100%;
+    background-color: #373A3C;
+}
+
+.modcolor{
+    cursor: pointer;
+}
+
+    .carousel-indicators {
+        bottom: -75px;
+
+    }
+
+h2{
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.bg-nav{
+    background-color: #373A3C;
+}
+
+.bg-abajo{
+    background-color: #DC3545;
+    align-items:center;
+    height: 30rem;
+}
+
+footer{
+    background-color: #373A3C;
+}
+
+h3{
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.p-ingredientes{
+    font-size:1.2rem;
+}
+
+h5{
+    font-weight: 600;
+    font-size: 1.5rem;
+
+}
+
+.nav-grosor{
+    height: 4rem;
+}
